@@ -1,6 +1,6 @@
 {
     "name": "restdone",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Restful database-agnostic service",
     "main": "index.js",
     "scripts": {
